@@ -1,5 +1,5 @@
 try:
-    from wtforms.fields.html5 import (
+    from wtforms.fields import (
         DateField,
         DateTimeField,
         DecimalField,
